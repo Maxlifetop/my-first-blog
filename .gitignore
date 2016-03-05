@@ -1,6 +1,6 @@
 *.pyc
 __pycache__
-vem
+verim
 db.sqlite3
 /static
 .DS_Store
